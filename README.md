@@ -10,7 +10,7 @@
 🔭 I’m currently working on my personal projects.  
   
 
-🌱 I’m currently learning Python and SQL  
+🌱 I’m currently learning Python. 
   
 
 ❓ask me anything  

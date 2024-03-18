@@ -7,16 +7,16 @@
 <div align="center"><h3>A freelance web developer 👩‍💻 also trying to be a data engineer 📊</h2></div>  
   
 
-- 🔭 I’m currently working on my personal projects.  
+🔭 I’m currently working on my personal projects.  
   
 
-- 🌱 I’m currently learning Python and SQL  
+🌱 I’m currently learning Python and SQL  
   
 
-- ❓ask me anything  
+❓ask me anything  
   
 
-- ❤️ Data 📊  
+❤️ Data 📊  
   
 
 <br/>  

@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><h2>Hi 👋🏼 Megumi Mizuno</h2></div>  
+### <div align="center"><h2>Hi 👋🏼 I am Megumi Mizuno</h2></div>  
 <div align="center"><h3>A freelance web developer 👩‍💻 also trying to be a data engineer 📊</h2></div>  
   
 

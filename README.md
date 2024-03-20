@@ -17,6 +17,8 @@
   
 
 ❤️ Data 📊  
+
+<a href="https://www.mizmeg.com/">Link to my portfolio🌐 </a>
   
 
 <br/>  

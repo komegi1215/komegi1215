@@ -18,7 +18,7 @@
 
 <div align="center">❤️ Data 📊  </div>
 
-<a href="https://www.mizmeg.com/" target="_blank">Link to my portfolio🌐</a>
+<div align="center"><a href="https://www.mizmeg.com/" target="_blank">Link to my portfolio🌐</a></div>
   
 
 <br/>  

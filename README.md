@@ -7,16 +7,16 @@
 <div align="center"><h3>A freelance web developer 👩‍💻 also trying to be a data engineer 📊</h2></div>  
   
 
-🔭 I’m currently working on my personal projects.  
+<div align="center">🔭 I’m currently working on my personal projects.  </div>
   
 
-🌱 I’m currently learning Python and working on my Javascript 30 days challenge
+<div align="center">🌱 I’m currently learning Python and working on my Javascript 30 days challenge</div>
   
 
-❓ask me anything  
+<div align="center">❓ask me anything </div>
   
 
-❤️ Data 📊  
+<div align="center">❤️ Data 📊  </div>
 
 <a href="https://www.mizmeg.com/" target="_blank">Link to my portfolio🌐</a>
   

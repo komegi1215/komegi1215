@@ -4,7 +4,7 @@
   
 
 ### <div align="center"><h2>Hi 👋🏼 I am Megumi Mizuno</h2></div>  
-<div align="center"><h3>A freelance web developer 👩‍💻 also trying to be a data engineer 📊</h2></div>  
+<div align="center"><h3>A freelance web developer 👩‍💻 also learning to be a data engineer 📊</h2></div>  
   
 
 <div align="center">🔭 I’m currently working on my personal projects.  </div>

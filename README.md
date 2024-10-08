@@ -4,13 +4,13 @@
   
 
 ### <div align="center"><h2>Hi 👋🏼 I am Megumi Mizuno</h2></div>  
-<div align="center"><h3>A freelance web developer 👩‍💻 also learning to be a data engineer 📊</h2></div>  
+<div align="center"><h3>Fulltime Marketing Engineer/A freelance web developer 👩‍💻</h2></div>  
   
 
-<div align="center">🔭 I’m currently working on my personal projects.  </div>
+<div align="center">🔭 I’m currently working on a projects with my friends to create an app for migrants living in Japan.  </div>
   
 
-<div align="center">🌱 I’m currently learning Python and working on my Javascript 30 days challenge</div>
+<div align="center">🌱 I’m currently learning Python.</div>
   
 
 <div align="center">❓ask me anything </div>

@@ -10,8 +10,9 @@
 <div align="center">🔭 I’m currently working on a projects with my friends to create an app for migrants living in Japan.  </div>
   
 
-<div align="center">🌱 I’m currently learning Python.</div>
-  
+<div align="center">🌱 I’m currently learning Python/Django</div>
+
+<div align="center">🌱 I'm currently learning Marketing tools such as GTM/Pardot/SFDC etc</div>
 
 <div align="center">❓ask me anything </div>
   

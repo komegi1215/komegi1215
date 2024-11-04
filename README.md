@@ -7,7 +7,7 @@
 <div align="center"><h3>Fulltime Marketing Engineer/A freelance web developer 👩‍💻</h2></div>  
   
 
-<div align="center">🔭 I’m currently working on a projects with my friends to create an app for migrants living in Japan.  </div>
+<div align="center">🔭 I’m currently working on a project with my friends to create an app for migrants living in Japan.  </div>
   
 
 <div align="center">🌱 I’m currently learning Python/Django</div>

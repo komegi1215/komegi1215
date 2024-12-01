@@ -10,7 +10,7 @@
 <div align="center">🔭 I’m currently working on a project with my friends to create an app for migrants living in Japan.  </div>
   
 
-<div align="center">🌱 I’m currently learning Python/Django</div>
+<div align="center">🌱 I’m currently learning React/Python/Django</div>
 
 <div align="center">🌱 I'm currently learning Marketing tools such as GTM/Pardot/SFDC etc</div>
 

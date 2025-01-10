@@ -4,15 +4,12 @@
   
 
 ### <div align="center"><h2>Hi 👋🏼 I am Megumi Mizuno</h2></div>  
-<div align="center"><h3>Fulltime Marketing Engineer/A freelance web developer 👩‍💻</h2></div>  
-  
+<div align="center"><h3>Fulltime Marketing/Solution Engineer/A freelance web developer 👩‍💻</h2></div>  
+    
 
-<div align="center">🔭 I’m currently working on a project with my friends to create an app for migrants living in Japan.  </div>
-  
+<div align="center">🌱 I’m currently learning React/SQL/Python/Java</div>
 
-<div align="center">🌱 I’m currently learning React/Python/Django</div>
-
-<div align="center">🌱 I'm currently learning Marketing tools such as GTM/Pardot/SFDC etc</div>
+<div align="center">🌱 I'm currently learning Marketing tools such as GTM/Zapier/SFDC etc</div>
 
 <div align="center">❓ask me anything </div>
   

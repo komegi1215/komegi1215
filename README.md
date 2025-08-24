@@ -7,14 +7,11 @@
 <div align="center"><h3>Fulltime Marketing/Solution Engineer/A freelance web developer 👩‍💻</h2></div>  
     
 
-<div align="center">🌱 I’m currently learning React/SQL/Python/Java</div>
+<div align="center">🌱 Working on SF Developer I certificate</div>
 
 <div align="center">🌱 I'm currently learning Marketing tools such as GTM/Zapier/SFDC etc</div>
 
 <div align="center">❓ask me anything </div>
-  
-
-<div align="center">❤️ Data 📊  </div>
 
 <div align="center"><a href="https://www.mizmeg.com/" target="_blank">Link to my portfolio🌐</a></div>
   
